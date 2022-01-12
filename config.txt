@@ -1,1 +1,1 @@
-{version:"1.7"}
+{"title":"Server Under Maintenance","text":"We Apologize for any inconvenience caused, Please try again later or Contact Us.","icon":"cloud_off","maintenance":"true"}
