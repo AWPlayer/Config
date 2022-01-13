@@ -1,1 +1,1 @@
-{"action":"android.intent.action.VIEW","uri":"https://t.me/awplayer_bot","title":"Server Under Maintenance","text":"We Apologize for any inconvenience caused, Please try again later or Contact Us.","icon":"cloud_off","maintenance":"1"}
+{"action":"android.intent.action.VIEW","uri":"https://t.me/awplayerofficial","title":"Server Under Maintenance","text":"We Apologize for any inconvenience caused, Please try again later or Contact Us.","icon":"cloud_off","maintenance":"1"}
