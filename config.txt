@@ -1,1 +1,1 @@
-{"title":"Server Under Maintenance","text":"We Apologize for any inconvenience caused, Please try again later or Contact Us.","icon":"cloud_off","maintenance":"true"}
+{"title":"Server Under Maintenance","text":"We Apologize for any inconvenience caused, Please try again later or Contact Us.","icon":"cloud_off","maintenance":"1"}
